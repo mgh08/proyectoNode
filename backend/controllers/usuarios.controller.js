@@ -17,7 +17,7 @@ exports.consultarUno = async (req, res) => {
 exports.insertar = async (req, res) => {
 
     const nuevoUsuario = {
-        "correo": "manu@gmail.com",
+        "correo": "manuela@gmail.com",
         "pass": "12345678",
         "rol": "empleado"
     };
